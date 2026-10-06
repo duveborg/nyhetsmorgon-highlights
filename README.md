@@ -2,6 +2,8 @@
 
 Daily segment highlights with timestamps for TV4's *Nyhetsmorgon*.
 
+**Live site: https://duveborg.github.io/nyhetsmorgon-highlights/**
+
 ## Setup
 
 ```bash
