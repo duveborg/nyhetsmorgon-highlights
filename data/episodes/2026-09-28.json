@@ -1,0 +1,314 @@
+{
+  "videoId": "6f4eba9bd1955be87729",
+  "date": "2026-09-28",
+  "title": "Nyhetsmorgon",
+  "description": "I dag väljer riksdagen talman • Tillbaka i sadeln efter livshotande ridolyckan • Höststäda hemma med enkla och smarta knep",
+  "broadcastDateTime": "2026-09-28T03:49:00Z",
+  "duration": 15990,
+  "expireDateTime": "2026-10-12T21:59:59Z",
+  "url": "https://www.tv4play.se/video/6f4eba9bd1955be87729",
+  "generatedAt": "2026-10-06T12:30:51.006Z",
+  "segments": [
+    {
+      "start": 41,
+      "title": "Travsnack: SM-dagen på Åbytravet",
+      "summary": "Återblick på lördagens SM-dag på Åbytravet med A Fair Days SM-guld och ponny-SM, samt tips inför kvällens tävlingar.",
+      "category": "sport",
+      "repeatOf": null
+    },
+    {
+      "start": 259,
+      "title": "Nyheterna",
+      "summary": "V röstar på Norlén som talman, Valmyndigheten kallar Postnord, terrorgripanden vid brittisk flygbas och ökad AI-användning bland svenskarna.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 743,
+      "title": "Vädret",
+      "summary": "Fronter med regn drar in västerifrån, milt och upp mot 20 grader i söder under veckan.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 891,
+      "title": "Nyhetsfabriken: talmansvalet, Postnord och regn i Bangkok",
+      "summary": "Programledarna och meteorolog Peter Kondrup diskuterar Vänsterpartiets besked, förtidsröster och översvämningarna i Bangkok samt sensommarvärmen i Sverige.",
+      "category": "övrigt",
+      "repeatOf": null
+    },
+    {
+      "start": 1143,
+      "title": "Direktrapport om terrorgripandena vid brittisk flygbas",
+      "summary": "Reporter Tomas Kvarnkullen rapporterar om de fem gripna männen, sprängämnen och möjlig Irankoppling vid flygbasen Fairford.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 1464,
+      "title": "Nyheterna",
+      "summary": "V kör över S inför talmansvalet, Postnord kallas till Valmyndigheten, terrorgripanden i England och marschdödläge i Nordirland.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 1841,
+      "title": "Måns Jonasson om AI-ökningen och slöskrollande",
+      "summary": "Internetstiftelsens Måns Jonasson om rapporten Svenskarna och internet: AI-användningen ökar kraftigt och många mår sämre av slöskrollande.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 2341,
+      "title": "Andreas Utterström svarar på tittarfrågor om USA",
+      "summary": "USA-experten om Trump–Xi-mötet, Trumps agerande utan omval, mellanårsvalet och var Kamala Harris befinner sig.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 2885,
+      "title": "Nyheterna",
+      "summary": "V röstar på Norlén som talman, Postnord-problem med förtidsröster, terrorgripanden vid flygbasen Fairford och ökad AI-användning bland svenskar.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 3378,
+      "title": "Vädret",
+      "summary": "Sensommarvärme i söder och regn från en front över landet, kyligare och blåsigt i norr; högtryck på väg tillbaka mot torsdagen.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 3560,
+      "title": "MTV-galan: Taylor Swift, Madonna och Yung Lean",
+      "summary": "Astrid Strochirk summerar nattens MTV-gala där Zara Larsson bara fick ett pris, Taylor Swift skrev historia och Yung Lean framträdde live.",
+      "category": "nöje",
+      "repeatOf": null
+    },
+    {
+      "start": 4053,
+      "title": "Psykolog Björn Hedensjö om ilska och impulskontroll",
+      "summary": "Efter Stefan Holms utbrott förklarar psykologen vad som händer i hjärnan när känslorna tar över och hur man kan hantera ilska.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 4337,
+      "title": "Sportsnack: Stefan Holm-bråket och landslaget inför Polen",
+      "summary": "Matte Tjernström diskuterar konflikten mellan Stefan Holm och Emil Persson samt skadeläget inför Sveriges Nations League-match mot Polen.",
+      "category": "sport",
+      "repeatOf": null
+    },
+    {
+      "start": 4664,
+      "title": "Nyheterna",
+      "summary": "Norlén ser ut att bli omvald talman efter V:s besked, Postnord-problem med förtidsröster, terrorgripanden vid Fairford och ökad AI-användning.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 4953,
+      "title": "Emanuel Karlsten om kinesiska AI-modeller",
+      "summary": "Emanuel Karlsten förklarar varför Deepseek, GLM och Qwen kan bli viktiga, digital suveränitet och riskerna med att ladda upp personlig data.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 5466,
+      "title": "Magnus Wennerberg om talmansvalet i riksdagen",
+      "summary": "Politikreportern reder ut V:s besked att rösta på Andreas Norlén och vad det betyder för splittringen bland de rödgröna.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 5734,
+      "title": "Nyheterna",
+      "summary": "V röstar på Norlén som talman, Postnord kallas till möte om förtidsröster, terrorgripanden vid brittisk flygbas och AI-användningen ökar.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 6198,
+      "title": "Vädret",
+      "summary": "Fronter drar in med regn från väster, sensommarvärme upp mot 20 grader i söder och blåsigt längs Norrlandskusten.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 6370,
+      "title": "Sara Kinberg om filmer som är så dåliga att de blir bra",
+      "summary": "Kinesiska animationsfilmen \"New Lie\", Rebecca Blacks \"Friday\" och \"Sharknado\" som gick från hån till succé.",
+      "category": "kultur",
+      "repeatOf": null
+    },
+    {
+      "start": 6983,
+      "title": "Nyheterna",
+      "summary": "Norlén väntas bli talman efter V:s besked, Postnord-problem med förtidsröster, terrorgripanden vid flygbas, översvämningar i Bangkok och dyrare vinter.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 7285,
+      "title": "Per Wirtén om hur Kungens kurva fick sitt namn",
+      "summary": "Författaren Per Wirtén berättar om kung Gustav V:s bilolycka för 80 år sedan och hur namnet blev Ikea- och köpcentrumplats.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 7593,
+      "title": "Hudläkare Petra Verga-Kahn om unga och hudvårdsprodukter",
+      "summary": "Allt fler unga använder starka hudvårdsprodukter, vilket kan ge eksem, perioral dermatit och skadad hudbarriär.",
+      "category": "hälsa",
+      "repeatOf": null
+    },
+    {
+      "start": 8159,
+      "title": "Nyheterna",
+      "summary": "Vänstern stöder Norlén som talman, Postnord kallas till Valmyndigheten, terrorgripanden vid brittisk flygbas och AI-ökning i Sverige.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 8627,
+      "title": "Vädret",
+      "summary": "Regn från väster och sol i öster idag, därefter högtryck och sensommarvärme runt 20 grader i södra Sverige.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 8874,
+      "title": "Orkanen Polo utanför Mexikos kust",
+      "summary": "Meteorologerna går igenom orkanen Polo, som väntas ge stora regnmängder vid Baja California och sydvästra USA, samt översvämningar i USA:s nordost.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 9035,
+      "title": "Magdalena Andersson lämnar tillbaka sonderingsuppdraget",
+      "summary": "På en blixtinkallad pressträff meddelar Andersson att hon ger upp regeringsbildningen inför talmansvalet; reporter Magnus Wennerberg analyserar.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 9577,
+      "title": "Tindra och Ebba om den allvarliga ridolyckan",
+      "summary": "Tindra Gylsdorff fick svåra hjärnskador vid en ridolycka; hon och vännen Ebba Öhrström berättar om olyckan och tiden på sjukhuset.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 10437,
+      "title": "Vädret: sensommarvärme och höststädning",
+      "summary": "Kort väderprognos med uppemot 20 grader i söder och soligt i norr, följt av tips om höststädning med Städ-Marlene.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 10540,
+      "title": "Nyheterna",
+      "summary": "Magdalena Andersson lämnar tillbaka sonderingsuppdraget, Muhammad Ali begär ledighet, Norrlandspartiet vill ha självstyre och terrorgripanden vid brittisk flygbas.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 11035,
+      "title": "Vädret",
+      "summary": "Fronter drar in västerifrån med regn och blåsigt, sensommarvarmt och soligt i sydost med upp till 20 grader.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 11290,
+      "title": "Direktrapport från riksdagen om Anderssons besked",
+      "summary": "Magnus Wennerberg kommenterar reaktionerna efter att Andersson lämnat tillbaka uppdraget och vad som väntar i talmansvalet och regeringsbildningen.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 11693,
+      "title": "Per Westerberg om talmansrollen och regeringsbildningen",
+      "summary": "Tidigare talmannen Per Westerberg om det ovanliga politiska läget, talmannens roll, möjligheten till bred mittenregering och extraval.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 12123,
+      "title": "Lina Fridén, RFSU, om ny abortlag",
+      "summary": "Förbundsordföranden Lina Fridén om moderniseringen av den svenska abortlagen, hemabort, ordvalet kvinna och aborträtten internationellt på internationella dagen för säkra aborter.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 12610,
+      "title": "Hudläkare Petra Verga-Kahn svarar på tittarfrågor",
+      "summary": "Petra Verga-Kahn svarar på tittarfrågor om ungas hud: sminkirritation, pormaskar, serum, glasskin och aknebehandling.",
+      "category": "hälsa",
+      "repeatOf": null
+    },
+    {
+      "start": 13112,
+      "title": "Fredrik Björkman om S talmanskandidat och V-irritation",
+      "summary": "Politikreportern Fredrik Björkman om att S nominerar Johanna Haraldsson som talman och irritationen mot Vänsterpartiet.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 13245,
+      "title": "Nyheterna",
+      "summary": "Magdalena Andersson ger upp regeringsförsöket inför talmansvalet, reaktioner från riksdagen och nya uppgifter om terrormisstänkta vid brittisk flygbas.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 13711,
+      "title": "Vädret",
+      "summary": "Fronter och regn västerifrån, sensommarvärme i öst och söder med upp mot 20 grader.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 13930,
+      "title": "Olof Lundh om fotbollslandslaget inför Polen",
+      "summary": "Sverige möter Polen i Nations League ikväll, med flera skadebesked och Isak borta, och matchens betydelse för EM-kvalet.",
+      "category": "sport",
+      "repeatOf": null
+    },
+    {
+      "start": 14293,
+      "title": "Stina Wikhoff om iskaffe på jobbintervju",
+      "summary": "Vett- och etikettexperten Stina Wikhoff om Tiktok-debatten om kaffe på arbetsintervju och generationsskillnader på arbetsplatsen.",
+      "category": "livsstil",
+      "repeatOf": null
+    },
+    {
+      "start": 14613,
+      "title": "Direktrapport från riksdagen: Andersson lämnar sonderingen",
+      "summary": "Magnus Wennerberg rapporterar att Magdalena Andersson lämnar tillbaka sonderingsuppdraget efter att V stöttat Norléns kandidatur i talmansvalet, och om Tidöpartiernas reaktion.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 14803,
+      "title": "Jennie Madestam om talmansvalet och regeringsfrågan",
+      "summary": "Statsvetaren analyserar Vänsterpartiets och Socialdemokraternas låsta läge, Kristerssons möjligheter att samla stöd och varför ett extraval är osannolikt.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 15043,
+      "title": "Direktrapport om terrorgripandena vid brittisk flygbas",
+      "summary": "Tomas Kvarnkullen rapporterar om fem gripna misstänkta terrorister nära en flygbas som används av USA, explosivt material och möjliga kopplingar till Iran.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 15280,
+      "title": "Höststädning med Marléne: element, ullkläder och grillgaller",
+      "summary": "Marléne ger tips inför hösten om rengöring av element, tvätt och förvaring av ull och kläder samt hur man rengör grillgallret.",
+      "category": "livsstil",
+      "repeatOf": null
+    }
+  ]
+}

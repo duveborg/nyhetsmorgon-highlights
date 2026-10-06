@@ -1,0 +1,272 @@
+{
+  "videoId": "982e03a19b35494f5a48",
+  "date": "2026-09-23",
+  "title": "Nyhetsmorgon",
+  "description": "Så har matpriserna påverkats efter årsskiftet • Satelliter i rymden – så gick det till • Bönderna berättar om vägen till kärleken",
+  "broadcastDateTime": "2026-09-23T03:49:00Z",
+  "duration": 15868,
+  "expireDateTime": "2026-10-07T21:59:59Z",
+  "url": "https://www.tv4play.se/video/982e03a19b35494f5a48",
+  "generatedAt": "2026-10-06T10:32:30.854Z",
+  "segments": [
+    {
+      "start": 47,
+      "title": "Trav-snack med Per och ponnyn Pimme",
+      "summary": "Per berättar om hästägardressar och vilka som är snyggast och mest igenkännbara inför kvällens V86 på Solvalla och Åby.",
+      "category": "sport",
+      "repeatOf": null
+    },
+    {
+      "start": 261,
+      "title": "Nyheterna",
+      "summary": "FN:s generalförsamling och diplomatin kring Iran och Ukraina, kritik mot lagen om självständigt förverkande på Arlanda, sjunkande matpriser och Häckens förlust i Champions League. Väder ingår.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 854,
+      "title": "Swedbank om matpriser och löner",
+      "summary": "Privatekonom Arturo Arques går igenom hur matkassan blivit nästan 5 procent billigare sedan januari, vad som drar upp priserna och hur man sparar.",
+      "category": "ekonomi",
+      "repeatOf": null
+    },
+    {
+      "start": 1251,
+      "title": "Väderstudion: höstdagjämning och Fat Bear Week",
+      "summary": "Peter och Ali Reza pratar om höstdagjämningen, hur långt hösten kommit, Fat Bear Week och Pelle Larssons nya NBA-kontrakt.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 1481,
+      "title": "Nyheterna",
+      "summary": "Förverkandelagen på Arlanda, diplomatin vid FN:s generalförsamling, sjunkande matpriser och Monica Forsberg får Musikförläggarnas hederspris.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 1817,
+      "title": "Filip Jacobsson i New York om FN, Iran och Ukraina",
+      "summary": "Direktrapport från FN:s generalförsamling om samtalen mellan USA och Iran, Hormuzsundet och Zelenskyjs möte med Trump.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 2051,
+      "title": "Per Hermarud om det misstänkta valfusket i Borlänge",
+      "summary": "Per Hermarud går igenom misstankarna mot två vänsterpartister i Dalarna, V:s tystnad och konsekvenserna för riksdagsmajoriteten och regeringsbildningen.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 2425,
+      "title": "Veteranpoolen om pensionärer som jobbar vidare",
+      "summary": "Mats Claesson och förre Grand Hotel-vd:n Nils Axelsson om varför allt fler pensionärer arbetar och hur deltidsjobb som trädbeskärning fungerar.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 2880,
+      "title": "Nyheterna",
+      "summary": "Nio av tio ärenden om självständigt förverkande på Arlanda läggs ner, FN:s generalförsamling och Grönlandsavtalet, sjunkande matpriser, sport och väder.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 3547,
+      "title": "Monica Forsberg om Musikförläggarnas hederspris",
+      "summary": "Textförfattaren Monica Forsberg firas för sin livsgärning, från Främling och Krokodilen i bilen till filmdubbning och barnmusik.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 3927,
+      "title": "Louise Brown om det misstänkta valfusket i Borlänge",
+      "summary": "Antikorruptionsrevisorn bedömer hur allvarligt det misstänkta valfusket är, vad NOA:s övertagande betyder och om riksdagsledamöter bör säkerhetsprövas.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 4230,
+      "title": "Åke Bonnier om ny översättning av Nya testamentet",
+      "summary": "Biskop emeritus Åke Bonnier och språkvetaren Patrik Hadenius om den nya, inkluderande översättningen som släpps på Bokmässan.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 4674,
+      "title": "Nyheterna",
+      "summary": "Förverkandelagen på Arlanda, FN:s generalförsamling med Iran och Trump, Grönlandsavtalet och sjunkande matpriser, följt av väder.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 4965,
+      "title": "Marcus Oscarsson om det misstänkta valfusket och V",
+      "summary": "Analys av valfusksmisstankarna i Dalarna, Vänsterpartiets timeout för riksdagsledamoten, bristande kandidatkontroller och påverkan på regeringsfrågan.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 5745,
+      "title": "Nyheterna",
+      "summary": "Självständigt förverkande läggs ner på Arlanda, FN:s generalförsamling med Iran och Trump, sjunkande matpriser, Grönlandsavtalet. Därefter väder.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 6401,
+      "title": "Fredrik Strage om popkultur: Ella Langley, GTA 6 och mer",
+      "summary": "Fredrik Strage pratar om Ella Langleys rekordetta, Robert Johnson, Allie X och Keith Richards låt till GTA 6.",
+      "category": "kultur",
+      "repeatOf": null
+    },
+    {
+      "start": 6988,
+      "title": "Nyheterna",
+      "summary": "Förverkandelagen på Arlanda, valfusket i Dalarna och kandidatkontroller, Iran på FN, sjunkande matpriser. Följs av väder.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 7270,
+      "title": "Trisskraparen Erik skrapar åt sin mamma",
+      "summary": "Erik skrapar Triss i studion åt sin mamma – se själv hur det går.",
+      "category": "nöje",
+      "repeatOf": null
+    },
+    {
+      "start": 7451,
+      "title": "Folköl och flätor: pappor lär sig fläta barnens hår",
+      "summary": "Initiativtagaren Ida Schou, frisören Carolina Östman och kocken Albin Edberg om pappor som lär sig fläta, med flätdemonstration i studion.",
+      "category": "livsstil",
+      "repeatOf": null
+    },
+    {
+      "start": 8145,
+      "title": "Nyheterna",
+      "summary": "Valfusket i Dalarna, Irans president i New York, kritik mot lagen om självständigt förverkande och Grönlandsavtalet.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 8579,
+      "title": "Väderprognos med Peter",
+      "summary": "Lågtryck i norra Europa, varmt i Spanien och Portugal, mycket moln i väster och soligt i öster i Sverige.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 8781,
+      "title": "Jonas Lagerström inför Årets kock-finalen",
+      "summary": "Finalisten och stjärnkocken Jonas Lagerström lagar piggvar och pratar om mental träning och pressen inför finalen på torsdag.",
+      "category": "mat",
+      "repeatOf": null
+    },
+    {
+      "start": 9042,
+      "title": "Nyheterna",
+      "summary": "Valfusket i Dalarna, kritik mot lagen om självständigt förverkande, Iran i FN och Trumps möte med Venezuelas Rodriguez.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 9762,
+      "title": "Carro på äppelmusteriet i Täby",
+      "summary": "Carro Björnerhag besöker ett hantverksmusteri i Täby där äpplen tvättas och krossas inför mustning.",
+      "category": "livsstil",
+      "repeatOf": null
+    },
+    {
+      "start": 10133,
+      "title": "Pranks i studion och El Niño-nyhet",
+      "summary": "Programledarna pratar om pranks efter ett viralt klipp, delar egna minnen och tar en snabb titt på El Niño och orkanen utanför Mexiko.",
+      "category": "nöje",
+      "repeatOf": null
+    },
+    {
+      "start": 10396,
+      "title": "Nyheterna",
+      "summary": "Valfusksutredningen i Dalarna och V-kandidater som tar timeout, kritik mot lagen om förverkande, Trump och Iran på FN samt Grönlandsavtalet.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 11090,
+      "title": "Per Hermanrud om valfusksmisstankarna och Vänsterpartiet",
+      "summary": "Politisk kommentator reder ut läget kring misstänkt valfusk i Dalarna, V:s timeout och konsekvenserna för Magdalena Anderssons regeringsbildning.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 11478,
+      "title": "Forskarrapporten Snabbtänkt om valet 2026",
+      "summary": "Marie Gusell och Niklas Bolin om rapporten med 126 forskare: valfusket, små förändringar, splittrade valrörelser på sociala medier och Liberalernas comeback.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 12105,
+      "title": "Carro på äppelmusteriet: så mustas äpplen",
+      "summary": "Carro Björnerhag och Jeanette pressar, pastöriserar och tappar äppelmust på musteriet och provsmakar tre olika mustar.",
+      "category": "livsstil",
+      "repeatOf": null
+    },
+    {
+      "start": 12425,
+      "title": "Vetenskapskollen: satelliterna och rymden",
+      "summary": "Eva Krutmeijer förklarar hur satelliter fungerar, deras användning, GPS-störningar, SpaceX och Sveriges rymdsatsning vid Esrange.",
+      "category": "hälsa",
+      "repeatOf": null
+    },
+    {
+      "start": 13075,
+      "title": "Nyheterna",
+      "summary": "V dementerar jobberbjudande i valfusksmisstankarna, ny lag om beslag på Arlanda läggs mest ned, och FN:s generalförsamling med Iran och Ukraina.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 13525,
+      "title": "Väderprognos med Peter Kontrup",
+      "summary": "Prognos för Europa och Sverige: molnigt i väster, soligare i öster med upp mot 18 grader.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 13699,
+      "title": "Direktrapport från Borlänge om det misstänkta valfusket",
+      "summary": "Reporter Annie Melbert rapporterar om Magdalena Anderssons kommentar, V:s partisekreterare och polisutredningen kring valfusket i Borlänge.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 13861,
+      "title": "Bonde söker fru: Patrik och Anders samt Linda Lindorff",
+      "summary": "Bönderna Patrik Bergqvist och Anders Nilsson samt programledaren Linda Lindorff inför premiären av 21:a säsongen av Bonde söker fru.",
+      "category": "nöje",
+      "repeatOf": null
+    },
+    {
+      "start": 14665,
+      "title": "William Karlström vann skandinaviska uttagningen i paté",
+      "summary": "Svensken William Karlström berättar om segern i den skandinaviska uttagningen till VM i Paté en croute och om förberedelserna inför VM i Lyon.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 14839,
+      "title": "Karin Smirnoff om sista Millennium-boken",
+      "summary": "Karin Smirnoff pratar om att avsluta Millennium-serien med \"Kvinnor som hatar män\", karaktärerna Lisbeth och Mikael, våld mot kvinnor och kommande projekt.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 15475,
+      "title": "Yrkes-VM i Shanghai: Nils Holm och Axel Borg",
+      "summary": "Två svenska tävlande, Nils Holm i jordbruksmaskinteknik och Axel Borg i it-teknik, berättar om första tävlingsdagen i yrkes-VM.",
+      "category": "intervju",
+      "repeatOf": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "nyhetsmorgon-highlights",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.6"
+  },
+  "scripts": {
+    "spike": "node --experimental-strip-types --no-warnings=ExperimentalWarning scripts/spike.ts",
+    "typecheck": "tsc && tsc -p site",
+    "pipeline": "node --experimental-strip-types --no-warnings=ExperimentalWarning src/cli.ts",
+    "dev": "vite --config site/vite.config.ts",
+    "build": "vite build --config site/vite.config.ts",
+    "preview": "vite preview --config site/vite.config.ts",
+    "backfill": "node --experimental-strip-types --no-warnings=ExperimentalWarning src/backfill.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "^5.8.0",
+    "vite": "^8.3.3"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "zod": "^4.6.5"
+  }
+}

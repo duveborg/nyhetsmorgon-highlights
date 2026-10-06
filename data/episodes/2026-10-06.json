@@ -1,0 +1,258 @@
+{
+  "videoId": "777188adc0512a6ccc0d",
+  "date": "2026-10-06",
+  "title": "Nyhetsmorgon",
+  "description": "Flest skilsmässor i oktober – så påverkas ekonomin • Fem saker du behöver veta om bröstcancer • Hon nekades IVF på grund av cp-skada",
+  "broadcastDateTime": "2026-10-06T03:49:00Z",
+  "duration": 15787,
+  "expireDateTime": "2026-10-20T21:59:59Z",
+  "url": "https://www.tv4play.se/video/777188adc0512a6ccc0d",
+  "generatedAt": "2026-10-06T13:33:16.307Z",
+  "segments": [
+    {
+      "start": 21,
+      "title": "Travmorgon: Express Go och V86 från Halmstad",
+      "summary": "Travexperten tipsar om kvällens V86 med norsk-svenskt samarbete och lyfter den obesegrade norska stjärnan Express Go.",
+      "category": "sport",
+      "repeatOf": null
+    },
+    {
+      "start": 249,
+      "title": "Nyheterna",
+      "summary": "Dödlig bussolycka utanför Växjö, rapport om bröstcancervård, Huthiattacker mot Riyadh, protester i Barcelona och Paris samt Sverige vann mot Rumänien.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 832,
+      "title": "Varför vill ingen sitta i BRF-styrelsen?",
+      "summary": "SBAB:s boendeekonom och Bostadsrätternas vd diskuterar bristande engagemang i bostadsrättsföreningars styrelser, tidsåtgång, ersättning och hur fler kan lockas.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 1467,
+      "title": "Nyheterna",
+      "summary": "Bussolyckan utanför Växjö, glapp i rehabilitering efter bröstcancer, Huthiattacker mot Riyadh och landslagets seger mot Rumänien.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 1803,
+      "title": "Patrik Norqvist tippar Nobelpriset i fysik",
+      "summary": "Fysikern Patrik Norqvist tipsar om favoriter inför dagens fysikpris, bland annat OLED-forskaren och kvantdatorforskaren John Preskill.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 2127,
+      "title": "Direkt från Växjö: chauffören misstänkt efter bussolyckan",
+      "summary": "Reporter Mikael Nilsson rapporterar från olycksplatsen: busschauffören är anhållen och två skadade vårdas på intensiven.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 2293,
+      "title": "Taimaz Ghafari om Demokraterna inför mellanårsvalet",
+      "summary": "USA-experten diskuterar det splittrade Demokratiska partiet, progressiva kandidater och nya profiler fyra veckor före mellanårsvalet.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 2883,
+      "title": "Nyheterna",
+      "summary": "Busschauffören misstänks för brott efter olyckan utanför Växjö, Råd & Rön varnar för bilbarnstol, Ukrainas drönarattack mot Moskva, elevprotester i Frankrike. Sport och väder ingår.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 3554,
+      "title": "Direkt från Odessa: Estlands upprustning mot Ryssland",
+      "summary": "Reportrar i Ukraina berättar hur man där ser Estlands flytt av trupper till gränsen och vad Ukraina kan bidra med.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 3884,
+      "title": "Råd & Rön varnar för två bilbarnstolar",
+      "summary": "Testchef Ronny Karlsson förklarar varför Britax Römers Babysafe Pro och Axkids MiniKid Core underkänts i krocktest och vad föräldrar bör göra.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 4145,
+      "title": "Jonas Björk om nyval i Spanien och protester i Frankrike",
+      "summary": "Utrikeskommentatorn förklarar Sánchez utlysta nyval efter bostadspaketet och de våldsamma elevprotesterna i Frankrike.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 4656,
+      "title": "Nyheterna",
+      "summary": "Busschauffören misstänkt efter bussolyckan i Småland, varning för bilbarnstol, glapp i vården efter bröstcancer och Ukrainas attack mot Moskva.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 4977,
+      "title": "Martin von Knorring om Sveriges Nations League-seger",
+      "summary": "Fotbollskanalens Martin von Knorring summerar 1-0 mot Rumänien, Gyökeres mål, hållen nolla och Sveriges väg mot EM-kvalet.",
+      "category": "sport",
+      "repeatOf": null
+    },
+    {
+      "start": 5206,
+      "title": "Frida Bratt om ekonomin vid skilsmässa",
+      "summary": "Frida Bratt går igenom bodelning, värdering av bostad och tillgångar, nya regler mot förhalning och råd inför och efter en separation.",
+      "category": "ekonomi",
+      "repeatOf": null
+    },
+    {
+      "start": 6363,
+      "title": "Röda Korsets Daniel Wallinder om läget i Ukraina",
+      "summary": "Landchefen för svenska Röda Korset i Ukraina berättar om det försämrade läget, rädslan hos invånarna, evakueringar och behovet av stöd.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 6957,
+      "title": "Nyheterna",
+      "summary": "Bussföraren misstänks för brott efter olyckan utanför Växjö, farlig bilbarnstol enligt Råd & Rön, Ukrainas drönarattack mot Moskva och elevprotester i Frankrike.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 7257,
+      "title": "Triss-skrapning med Lone",
+      "summary": "Lone, som varit gift i 50 år med Peter, skrapar Triss i studion.",
+      "category": "nöje",
+      "repeatOf": null
+    },
+    {
+      "start": 7392,
+      "title": "Direkt från Växjö: bussföraren misstänkt för brott",
+      "summary": "Mikael Nilsson rapporterar från Växjö lasarett om bussolyckan, misstankarna mot chauffören och de skadades tillstånd.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 7568,
+      "title": "Onkologen Robel Malki om fem saker om bröstcancer",
+      "summary": "Under bröstcancermånaden går onkologen igenom myter om mammografi, olika typer av bröstcancer, riskfaktorer, symtom och överlevnad.",
+      "category": "hälsa",
+      "repeatOf": null
+    },
+    {
+      "start": 8102,
+      "title": "Nyheterna",
+      "summary": "Bussolyckan utanför Växjö, elevprotesterna i Frankrike, Råd & Röns varning för bilbarnstol och Ukrainas attack mot Moskva, samt väder.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 8749,
+      "title": "Catarina Königs köttfärssås med spagetti",
+      "summary": "Matlagning av en variant på köttfärssås med spagetti.",
+      "category": "mat",
+      "repeatOf": null
+    },
+    {
+      "start": 8781,
+      "title": "Fredrik Björkman om regeringsbildningen och låsningen mellan C och V",
+      "summary": "Politisk reporter diskuterar mötet på fredag, avståndet mellan Centerpartiet och Vänsterpartiet och risken för extraval.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 9017,
+      "title": "Nyheterna",
+      "summary": "Bussolyckan i Småland, elevprotester i Frankrike, Ukrainas drönaranfall mot Moskva och varning för bilbarnstol.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 9327,
+      "title": "Maria Schiöler om att leva med CP och att bli mamma",
+      "summary": "Juristen och författaren berättar om livet med CP-skada på internationella CP-dagen och kampen för att få göra IVF.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 10261,
+      "title": "Vädret: höstoväder på väg",
+      "summary": "Peter går igenom omläggningen till lågtryck mot torsdag och fredag, med risk för snö i norra Svealand och stormbyar längs ostkusten.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 10365,
+      "title": "Nyheterna",
+      "summary": "Busschauffören anhållen efter bussolyckan vid Växjö, största elevprotesterna i Frankrike, Israel höjer beredskapen och inflationen kan ha fördubblats.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 11099,
+      "title": "Direkt från Växjö: läget efter bussolyckan",
+      "summary": "Reportern Mikael Nilsson rapporterar från Växjö lasarett om de skadade, den anhållne chauffören och vad som är känt om olyckan.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 11346,
+      "title": "Carl Heath om Rysslands attacker mot ukrainsk kultur",
+      "summary": "Forskaren Carl Heath berättar om Rysslands bombningar av kultur, Ukrainas \"cultural forces\", bokleveranser med drönare och konst som motståndskraft.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 12044,
+      "title": "Direkt från Paris: studentprotesterna i Frankrike",
+      "summary": "Utrikesreporter Jennifer Paterson rapporterar om elevernas krav, polisens hårdhänta agerande och att lärarfacken ansluter till protesterna.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 12390,
+      "title": "Onkolog Robel Malki svarar på tittarfrågor om bröstcancer",
+      "summary": "Malki svarar på frågor om mammografi, apelsinhud, östrogengel, biopsi, rehabilitering och knölar i brösten under bröstcancermånaden.",
+      "category": "hälsa",
+      "repeatOf": null
+    },
+    {
+      "start": 13044,
+      "title": "Nyheterna",
+      "summary": "Busschauffören anhållen efter olyckan utanför Växjö, Riksrevisionen om studielån, bröstcancerrehabilitering och farlig bilbarnstol; därefter protester i Frankrike och väder.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 13693,
+      "title": "Sportsnack om Sveriges Nations League-seger mot Rumänien",
+      "summary": "Axel och Nordin analyserar segern mot Rumänien, Gyökeres form, Graham Potters ledarskap och tittar på gamla frisyrer.",
+      "category": "sport",
+      "repeatOf": null
+    },
+    {
+      "start": 14203,
+      "title": "Suad Ali om romanen Dålig stämning och prestationssamhället",
+      "summary": "Författaren Suad Ali berättar om sin arbetsplatssatir om Maja, som inte vill göra karriär, och om prestationshets.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 14754,
+      "title": "Nobelpriset i fysik 2026 tillkännages",
+      "summary": "Direkt från Vetenskapsakademien: priset går till Francis Halzen för IceCube-observatoriet och neutriner. Astronomen Ragnhild Lunnan kommenterar det oväntade beskedet.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 15389,
+      "title": "Fredrik Björkman om utskottsposterna och regeringsbildningen",
+      "summary": "Politiske reportern berättar om valen till riksdagens utskott, SD:s förflyttningar och Magdalena Anderssons sonderingar med Vänsterpartiet och Centerpartiet.",
+      "category": "intervju",
+      "repeatOf": null
+    }
+  ]
+}
