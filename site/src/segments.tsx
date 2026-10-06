@@ -86,6 +86,11 @@ export function SegmentRow({ segment: s, href }: { segment: TimedHighlight; href
           <span className="tag">{s.category}</span>
           {s.repeatOf !== null && <span className="tag">repris från {formatTime(s.repeatOf)}</span>}
           {!href && <span className="tag">inte längre på TV4 Play</span>}
+          {href && (
+            <span className="tag tag-seen" aria-hidden>
+              ✓ sett
+            </span>
+          )}
         </span>
       </span>
       {href && (

@@ -59,8 +59,10 @@ export function App() {
   return (
     <div className={searching ? 'layout layout--search' : 'layout'}>
       <header className="header">
-        <h1>Nyhetsmorgon</h1>
-        <p>Hoppa direkt till inslagen i senaste avsnitten.</p>
+        <h1>
+          Nyhetsmorgon <span className="header-accent">inslag för inslag</span>
+        </h1>
+        <p>Varje inslag med tidskod – klicka och se just det du vill på TV4 Play.</p>
         <nav className="views" aria-label="Vy">
           <a
             href={selectedId ? `?avsnitt=${selectedId}` : location.pathname}
