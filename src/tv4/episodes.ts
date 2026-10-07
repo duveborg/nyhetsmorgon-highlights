@@ -73,6 +73,9 @@ export async function listEpisodes(): Promise<ListedEpisode[]> {
     date: stockholmDate(e.playableFrom.isoString),
     playableUntil: e.playableUntil.isoString,
     duration: e.duration.seconds,
-    isLive: e.isLiveContent && (!e.liveEventEnd || new Date(e.liveEventEnd.isoString) > new Date()),
+    // TV4 keeps isLiveContent true after liveEventEnd until the finished
+    // episode replaces the live window (seen 2026-10-07: still true at 12:38,
+    // broadcast ended 12:00), so trust the flag rather than the end time.
+    isLive: e.isLiveContent,
   }));
 }

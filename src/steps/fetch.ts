@@ -14,9 +14,12 @@ export async function fetchStep(videoId: string, { force = false } = {}) {
   if (force || !existsSync(p.audio)) {
     const playback = await getPlayback(videoId);
     const audioPlaylistUrl = await resolveAudioPlaylist(playback.manifestUrl);
-    writeJson(p.playback, { ...playback, audioPlaylistUrl } satisfies PlaybackInfo);
     log(`${playback.title} ${playback.broadcastDateTime} (${fmt(playback.duration)})`);
-    await downloadAudio(audioPlaylistUrl, p.audio);
+    const { seconds } = await downloadAudio(audioPlaylistUrl, p.audio);
+    // Right after a live broadcast the playback API can still report the live
+    // window's length (seen 2026-10-07: 6:11:00 for 4:25:24 of audio), so the
+    // audio we actually got is the episode's duration.
+    writeJson(p.playback, { ...playback, duration: Math.round(seconds), audioPlaylistUrl } satisfies PlaybackInfo);
   } else {
     log(`Audio already downloaded: ${p.audio}`);
   }
