@@ -1,0 +1,279 @@
+{
+  "videoId": "2ab0b27d3984f63a2fae",
+  "date": "2026-10-07",
+  "title": "Nyhetsmorgon",
+  "description": "Årsdag för Hamas anfall mot Israel • Idag delas Nobelpriset i kemi ut • Seglar jorden runt utan GPS",
+  "broadcastDateTime": "2026-10-07T03:49:00Z",
+  "duration": 15924,
+  "expireDateTime": "2026-10-21T21:59:59Z",
+  "url": "https://www.tv4play.se/video/2ab0b27d3984f63a2fae",
+  "generatedAt": "2026-10-07T12:40:01.362Z",
+  "segments": [
+    {
+      "start": 65,
+      "title": "Travmorgon med Per",
+      "summary": "Per inför kvällens V86 på Solvalla och Axevalla och matchen mellan tränarna Daniel Wäjersten och Daniel Redén om tränarligan.",
+      "category": "sport",
+      "repeatOf": null
+    },
+    {
+      "start": 253,
+      "title": "Nyheterna",
+      "summary": "Dödsdömda Christa Pike har vaknat efter misslyckad avrättning, massiva ryska attacker mot Kiev och knivman skjuten vid Stockholms slott.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 843,
+      "title": "Cornell 7 – gruppvåldtäktsfallet som skakar USA",
+      "summary": "Filip Jakobsson i Washington om protesterna, den återupptagna utredningen och kraven på universitetsledningen efter fallet vid Cornell.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 1303,
+      "title": "Väder: snövarning och stormbyar",
+      "summary": "Peter varnar för snöfall från norra Värmland till södra Jämtland och kraftiga nordvindar med stormbyar längs ostkusten.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 1477,
+      "title": "Nyheterna",
+      "summary": "Christa Pikes tillstånd, attackerna mot Ukraina, mordet på svenskarna på Nya Zeeland och knivmannen vid slottet.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 1737,
+      "title": "Malcolm Dixelius om Putins 74-årsdag och Politkovskaja",
+      "summary": "Malcolm Dixelius om Putins födelsedag, hans ställning i Ryssland, 20-årsminnet av Politkovskajas mord och läget i Polen.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 2169,
+      "title": "Anders Persson om tre år sedan 7 oktober",
+      "summary": "Mellanösternexperten Anders Persson om läget i Gaza, vapenvilan, regionens konflikter och Israels kommande val.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 2525,
+      "title": "Erik Sturegård om misstänkt pest i Ryssland",
+      "summary": "Biträdande statsepidemiolog Erik Sturegård reder ut obekräftade uppgifter om dödsfall och lungpest i Ryssland och bedömer risken för Sverige som mycket låg.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 2877,
+      "title": "Nyheterna",
+      "summary": "Christa Pike har vaknat efter den misslyckade avrättningen, massiva ryska attacker mot Ukraina, knivman skjuten vid slottet och superlaser hos polisen. Sport och väder ingår.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 3550,
+      "title": "Teamet i Ukraina om nattens attacker och Putin",
+      "summary": "Johan Fredriksson och Anders Ekert rapporterar från Odessa om nattens ryska anfall, attackerna mot civila fartyg i Svarta havet och Putins roll.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 3905,
+      "title": "Mattias Tjernström om Lionel Messis landslagsavsked",
+      "summary": "Sportkommentatorn Mattias Tjernström ser tillbaka på Messis sista landskamp för Argentina och hans karriär i landslaget.",
+      "category": "sport",
+      "repeatOf": null
+    },
+    {
+      "start": 4349,
+      "title": "Sebastian Clementsson tippar Nobelpriset i kemi",
+      "summary": "Sebastian Clementsson, Lunds universitet, förklarar vad som krävs för kemipriset och pekar ut favoriter som prime editing, elektronöverföring i proteiner och Protac.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 4662,
+      "title": "Nyheterna",
+      "summary": "Christa Pike vaknad efter misslyckad avrättning, ryska attacker mot Ukraina, hotad spannmålsexport via Svarta havet och färre sökande till förskollärarutbildningen.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 4954,
+      "title": "Marcus Oscarsson svarar på tittarfrågor om regeringsbildningen",
+      "summary": "Marcus Oscarsson diskuterar Centerns roll, Vänsterpartiets krav, risken för extraval och om M och S skulle kunna regera ihop.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 5400,
+      "title": "Frida Bratt om väntad inflationsökning och räntan",
+      "summary": "Ekonomijournalisten Frida Bratt förklarar varför inflationen väntas stiga och vad det kan betyda för Riksbankens ränta och hushållens plånböcker.",
+      "category": "ekonomi",
+      "repeatOf": null
+    },
+    {
+      "start": 5752,
+      "title": "Nyheterna",
+      "summary": "Christa Pike har vaknat efter den misslyckade avrättningen, ryska attacker mot Kiev, skolprotester i Frankrike och nya inflationssiffror, plus väder.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 6382,
+      "title": "Frida Bratt om inflationssiffran på 1,5 procent",
+      "summary": "Frida Bratt kommenterar den nya KPIF-siffran och bedömer sannolikheten för räntehöjning från Riksbanken i slutet av året.",
+      "category": "ekonomi",
+      "repeatOf": null
+    },
+    {
+      "start": 6527,
+      "title": "Fredrik Strage om Bodyfest och Flowerface",
+      "summary": "Musiktips från Fredrik Strage: festivalen Bodyfest med Split Second och den kanadensiska artisten Flowerface nya singel Bad Dream.",
+      "category": "kultur",
+      "repeatOf": null
+    },
+    {
+      "start": 6998,
+      "title": "Nyheterna",
+      "summary": "Inflationen stiger till 1,5 procent, treårsdagen av 7 oktober, ryska attacker mot Kiev och knivmannen utanför slottet, plus väder.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 7282,
+      "title": "Triss med Nathalie och Felix",
+      "summary": "Nathalie skrapar Triss-lotter som Felix köpt, med släkten hemma och flyttplaner till ett nytt hus.",
+      "category": "nöje",
+      "repeatOf": null
+    },
+    {
+      "start": 7432,
+      "title": "Hitta sin egen doft med parfymskaparna",
+      "summary": "Sandra Kinnmark och Amelie Saltin förklarar doftpyramiden och tar fram personliga parfymer åt programledarna samt tips för användning.",
+      "category": "livsstil",
+      "repeatOf": null
+    },
+    {
+      "start": 8152,
+      "title": "Nyheterna",
+      "summary": "Inflationen stiger till 1,5 procent, massiva ryska attacker mot Kiev och Hamas-dådets treårsdag, skolprotester i Frankrike samt knivman vid slottet.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 8599,
+      "title": "Väder: regn och snö på väg från Nordsjön",
+      "summary": "Ett lågtryck för regn och snö i nordvästra Svealand och Härjedalen, stormbyar vid ostkusten på fredag.",
+      "category": "väder",
+      "repeatOf": null
+    },
+    {
+      "start": 8812,
+      "title": "Roy Nader lagar världens bästa schnitzel",
+      "summary": "Kocken Roy Nader berättar om schnitzelns ursprung och börjar laga en Roslagsschnitzel på fläskfilé.",
+      "category": "mat",
+      "repeatOf": null
+    },
+    {
+      "start": 9052,
+      "title": "Nyheterna",
+      "summary": "Inflationen tar fart, ryska attacker mot Kiev, hotad spannmålsexport från Ukraina, färre förskollärarsökande och superradar hos polisen.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 9343,
+      "title": "Lasse Granqvist om Hylandpriset",
+      "summary": "Kommentatorn Lasse Granqvist berättar om Hylandpriset, sin väg in i kommentatorsyrket och minnen från karriären.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 10207,
+      "title": "Pant i Storbritannien – Tomas Kvarnkullen i London",
+      "summary": "Storbritannien inför pantsystem för burkar och flaskor. Reporter Tomas Kvarnkullen berättar trots ljudproblem, och tittarna får svara i en Instagram-poll om pant.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 10440,
+      "title": "Nyheterna",
+      "summary": "Inflationen tar fart och räntehöjning väntas, ryska attacker mot Kiev och Svarta havet, treårsdagen av Hamas attack 7 oktober, superradar för polisen.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 11148,
+      "title": "Tre år sedan 7 oktober – Arne Lapidus och Terese Cristiansson",
+      "summary": "Samtal om Hamas attack mot Israel för tre år sedan, traumat, ansvarsfrågan kring Netanyahu, säkerhetsläget och det kommande israeliska valet.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 12138,
+      "title": "Vetenskapskollen: Alfred Nobel och dynamiten",
+      "summary": "Eva Krutmaier berättar om Alfred Nobels liv, uppfinningen av dynamiten, vänskapen med Bertha von Suttner och några märkliga pristagare.",
+      "category": "övrigt",
+      "repeatOf": null
+    },
+    {
+      "start": 12888,
+      "title": "Rättegången mot misstänkt misshandel av Kristian Cedig",
+      "summary": "Reporter Mikael Nilsson rapporterar från Köpenhamn när rättegången inleds mot en 31-åring åtalad för misshandel av den svenske polisen Kristian Cedig.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 13151,
+      "title": "Nyheterna",
+      "summary": "Inflationen ökade till 1,5 procent, knivdåd i Malmö, minnesceremonier tre år efter 7 oktober och pant i Storbritannien, följt av väder.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 13809,
+      "title": "Madelen Janogy och Plan om flickors rättigheter och fotboll",
+      "summary": "Fotbollsspelaren Madelen Janogy och Isabella Tafelin Öskog från Plan International om hur fotbollen kan stärka flickors rättigheter.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 14368,
+      "title": "Per Nyman seglar jorden runt utan GPS",
+      "summary": "Per Nyman nås via satellittelefon mitt på havet under Golden Globe Race och berättar om navigering, ensamhet och kaskelotvalar.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 14606,
+      "title": "David Larsson Heidenblad om boken Ta små steg",
+      "summary": "Historikern och författaren förklarar sina tre principer för förändring: tänk litet, tänk relationer och tänk långsiktigt, med exempel från eget liv.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 15089,
+      "title": "Nobelpriset i kemi 2026 tillkännages",
+      "summary": "Direktrapport från Vetenskapsakademien inför och under presskonferensen där Henri Kagan och Kenzo Suga får kemipriset för arbete om spegelbildsmolekyler.",
+      "category": "nyheter",
+      "repeatOf": null
+    },
+    {
+      "start": 15575,
+      "title": "Sebastian Clementson förklarar Nobelpriset i kemi",
+      "summary": "Organikern från Lunds universitet förklarar kiralitet, spegelbildsmolekyler och varför upptäckten är viktig för läkemedel och livets uppkomst.",
+      "category": "intervju",
+      "repeatOf": null
+    },
+    {
+      "start": 15918,
+      "title": "Nyheterna",
+      "summary": "Nyhetssändningen inleds efter programledarnas prat om dagens program.",
+      "category": "nyheter",
+      "repeatOf": null
+    }
+  ]
+}
